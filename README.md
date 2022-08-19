@@ -23,4 +23,4 @@
 ---
 
 ## 🚩博客文章列表：
-[GoogleTest环境配置以及应用]([GoogleTest环境配置以及应用](https://calm2012.github.io/GoogleTest%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/))
+[GoogleTest环境配置以及应用](https://calm2012.github.io/GoogleTest%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/)
