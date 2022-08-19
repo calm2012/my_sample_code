@@ -1,5 +1,5 @@
 <div align="center">
-<h1>📝博客实例源码</h1>
+<h1>📝博客示例源码</h1>
 <img src="https://img.shields.io/github/license/onblog/BlogHelper"/>
 <img src="https://img.shields.io/static/v1?label=electron&message=7.1.7&color="/>
 <img src="https://img.shields.io/static/v1?label=mac|win|linux&message=7.1.7&color=yellow"/>
